@@ -11,32 +11,62 @@
 
 ---
 
-### About
+```python
+# moosa.py
 
-Building things that work **and** look good doing it.
+class Moosa:
 
-**Robotics** — I work with real hardware. Built autonomous robots using Arduino, Raspberry Pi, ROS2 and RPLidar. I like making machines that can think and navigate on their own.
+    name       = "Moosa Mubasir"
+    based_in   = "Mangalore, India"
+    degree     = "BCA — AI · VR · Robotics"
 
-**Web Development** — I build full-stack websites from scratch. Frontend, backend, databases — and I care a lot about making them visually cool and immersive. Three.js, GSAP, cinematic effects — that's my thing.
+    doing = [
+        "Building autonomous robots with ROS2, RPLidar & A* pathfinding",
+        "Full-stack web dev — frontend, backend, databases",
+        "Crafting immersive 3D websites with Three.js & GSAP",
+        "Robotics internship — Gazebo simulation & embedded systems",
+    ]
+
+    currently_exploring = [
+        "Embedded AI on real hardware",
+        "ROS2 navigation stack",
+        "Cinematic web experiences",
+    ]
+
+    quote = "If it doesn't work perfectly or look great — it's not done yet."
+```
 
 ---
 
-### What I Do
+```yaml
+# what_i_do.yaml
 
-| Robotics & Embedded | Full-Stack & Creative Web |
-|---|---|
-| **Hardware Builder — Autonomous Systems** | **Developer — Immersive Web Experiences** |
-| Working with Arduino, Raspberry Pi, ROS2 and sensors to build robots that navigate and react in the real world independently. | Building full-stack websites with cool visuals — 3D scenes, smooth animations, and strong backends. Frontend to database, all of it. |
+robotics_and_embedded:
+  role: Hardware Builder — Autonomous Systems
+  about: >
+    Working with Arduino, Raspberry Pi, ROS2 and sensors
+    to build robots that navigate and react in the real
+    world independently.
+
+fullstack_and_creative_web:
+  role: Developer — Immersive Web Experiences
+  about: >
+    Building full-stack websites with cool visuals —
+    3D scenes, smooth animations, strong backends.
+    Frontend to database, all of it.
+```
 
 ---
 
-### Background
+```json
+// background.json
 
-| | Experience | Focus |
-|---|---|---|
-| 🤖 | Robotics Internship | ROS2 · RPLidar · Autonomous navigation |
-| 🎓 | BCA Final Year | AI · VR · Robotics specialization |
-| 🌐 | Web Development | Full-stack · Three.js · Visual web |
+{
+  "Robotics Internship": "ROS2 · RPLidar · Autonomous navigation",
+  "BCA Final Year":      "AI · VR · Robotics specialization",
+  "Web Development":     "Full-stack · Three.js · Visual web"
+}
+```
 
 ---
 
