@@ -1,113 +1,159 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Moosa+%F0%9F%A4%96;Robotics+%C2%B7+AI+%C2%B7+Creative+Dev" alt="Typing SVG" />
+<img src="YOUR_PROFILE_PICTURE_LINK" width="180" style="border-radius:50%;" />
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moosa-mubasir-a666b1414)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moosamubasir8@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=MOOSA+MUBASIR;Robotics+Engineer;AI+%7C+Embedded+Systems;Creative+Developer" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/moosa-mubasir-a666b1414)
+[![Email](https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:moosamubasir8@gmail.com)
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```python
-# moosa.py
+# 01 // WHO I AM
 
-class Moosa:
+Building systems where **intelligence meets the physical world.**
 
-    name       = "Moosa Mubasir"
-    based_in   = "Mangalore, India"
-    degree     = "BCA — AI · VR · Robotics"
+### Robotics & Embedded Systems
 
-    doing = [
-        "Building autonomous robots with ROS2, RPLidar & A* pathfinding",
-        "Full-stack web dev — frontend, backend, databases",
-        "Crafting immersive 3D websites with Three.js & GSAP",
-        "Robotics internship — Gazebo simulation & embedded systems",
-    ]
+Developing autonomous robots that navigate, perceive and react in real environments.
 
-    currently_exploring = [
-        "Embedded AI on real hardware",
-        "ROS2 navigation stack",
-        "Cinematic web experiences",
-    ]
+Working with:
 
-    quote = "If it doesn't work perfectly or look great — it's not done yet."
-```
+- ROS2
+- Raspberry Pi
+- Arduino
+- RPLidar
+- Motor Control Systems
+- Autonomous Navigation
 
----
+### Creative Development
+
+Building immersive digital experiences using:
+
+- Three.js
+- GSAP
+- Full Stack Development
+- Interactive UI Design
+- Creative Frontend Engineering
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 02 // CURRENT MISSION
+
+> Designing machines that move.
+>
+> Building software that feels alive.
+>
+> Bridging robotics and immersive web experiences.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 03 // EXPERIENCE
+
+### 🤖 Robotics Internship
 
 ```yaml
-# what_i_do.yaml
-
-robotics_and_embedded:
-  role: Hardware Builder — Autonomous Systems
-  about: >
-    Working with Arduino, Raspberry Pi, ROS2 and sensors
-    to build robots that navigate and react in the real
-    world independently.
-
-fullstack_and_creative_web:
-  role: Developer — Immersive Web Experiences
-  about: >
-    Building full-stack websites with cool visuals —
-    3D scenes, smooth animations, strong backends.
-    Frontend to database, all of it.
+Focus:
+  - ROS2
+  - RPLidar
+  - Gazebo
+  - Autonomous Navigation
 ```
 
----
+### 🎓 BCA Final Year
 
-```json
-// background.json
-
-{
-  "Robotics Internship": "ROS2 · RPLidar · Autonomous navigation",
-  "BCA Final Year":      "AI · VR · Robotics specialization",
-  "Web Development":     "Full-stack · Three.js · Visual web"
-}
+```yaml
+Specialization:
+  - Artificial Intelligence
+  - Virtual Reality
+  - Robotics
 ```
 
----
+### 💻 Embedded Systems
 
-### 🛠️ Tech Stack
+```yaml
+Hardware:
+  - Arduino
+  - Raspberry Pi
+  - Sensors
+  - Motor Drivers
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 04 // TECH STACK
 
 <div align="center">
 
-**Languages**
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,bash,html,css" />
 
-<br/>
+<br><br>
 
-**Robotics & Embedded**
+### Robotics & Embedded
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux" />
 
-<br/>
+<br><br>
 
-**Web & Tools**
+### Creative Web & Tools
 
 <img src="https://skillicons.dev/icons?i=threejs,nodejs,mysql,git,github,vscode,docker" />
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📊 Stats
+# 05 // FEATURED PROJECT
+
+## Grid-Based Autonomous Navigation System
+
+```text
+✓ Autonomous Navigation
+✓ Obstacle Avoidance
+✓ Bonus Point Collection
+✓ ROS2 Integration
+✓ Gazebo Simulation
+✓ Path Planning Algorithms
+```
+
+Developed during my Robotics Internship as part of a complete autonomous navigation framework.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 06 // GITHUB ANALYTICS
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moosadot&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=moosadot&theme=github-dark-blue&hide_border=true"/>
 
-<br/>
+<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosadot&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/moosadot)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moosadot&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosadot&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-<sub>driven by curiosity and code · 2026</sub>
+
+### "I don't just write code.
+
+### I build things that move, think, and exist in the real world."
+
+<br>
+
+<sub>MOOSA MUBASIR • ROBOTICS • AI • CREATIVE DEVELOPMENT</sub>
+
 </div>
