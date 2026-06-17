@@ -19,32 +19,39 @@ $ cat about.txt
 ```
 ---
 
-## 🤖 Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [gazebo-smart-navigation-challenge](https://github.com/moosadot/gazebo-smart-navigation-challenge) | A* pathfinding on 5×5 grid with bonus collection & Gazebo sim | `ROS2` `Python` `Gazebo` |
-| [obstacle-avoidance-robot](https://github.com/moosadot/obstacle-avoidance-robot) | Arduino bot with ultrasonic sensing & intelligent movement | `C++` `Arduino` |
-| [college-admin-system](https://github.com/moosadot/college-administration-management-system) | PHP + MySQL system for students, faculty & academic records | `PHP` `MySQL` |
-
----
-
 ## 🛠️ Tech Stack
 
-**Robotics & Embedded**
-`ROS2 Jazzy` `Gazebo Harmonic` `RPLidar` `Arduino` `Raspberry Pi` `OpenCV` `L298N`
+<div align="center">
 
-**Languages**
-`Python` `C++` `C` `JavaScript` `PHP` `Bash` `SQL` `HTML/CSS` `YAML`
+**Languages & AI**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,bash,html,css" />
+
+**Robotics & Embedded**
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux" />
+<br>
+![ROS2](https://img.shields.io/badge/ROS2_Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo_Harmonic-FF6600?style=for-the-badge&logoColor=white)
+![RPLidar](https://img.shields.io/badge/RPLidar-A22846?style=for-the-badge&logoColor=white)
 
 **AI & Data**
-`Agentic AI` `LangChain` `NumPy` `Pandas` `TensorFlow` `Scikit-learn`
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 
 **Creative & Web**
-`Three.js` `GSAP` `After Effects` `Premiere Pro` `Figma` `Blender`
+
+<img src="https://skillicons.dev/icons?i=threejs,blender,figma,ae,pr" />
 
 **Tools & DevOps**
-`Git` `GitHub` `VS Code` `Linux (Ubuntu)` `WSL2` `Docker` `Node.js`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,nodejs,mysql" />
+
+</div>
 
 ---
 
