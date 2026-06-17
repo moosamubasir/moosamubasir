@@ -5,6 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/moosa-mubasir-a666b1414)
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/m.moosaaa/)
 [![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:moosamubasir8@gmail.com)
 
 </div>
@@ -68,16 +69,10 @@ Building systems where **intelligence meets the physical world.**
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moosadot&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moosadot&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF&text=FFFFFF)](https://git.io/streak-stats)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosadot&layout=compact&theme=github_dark&hide_border=true)](https://github.com/moosadot)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moosadot&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=true)](https://github.com/moosadot)
 
-</div>
-
----
-
-<div align="center">
-<sub>driven by curiosity and code · 2026</sub>
 </div>
