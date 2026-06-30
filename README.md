@@ -7,7 +7,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge\&logo=linkedin\&logoColor=000000)](https://linkedin.com/in/moosa-mubasir-a666b1414)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge\&logo=linkedin\&logoColor=000000)](https://linkedin.com/in/moosamubasir)
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge\&logo=instagram\&logoColor=000000)](https://www.instagram.com/m.moosaaa/)
 [![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge\&logo=gmail\&logoColor=000000)](mailto:moosamubasir8@gmail.com)
 
