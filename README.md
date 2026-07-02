@@ -76,6 +76,4 @@ Building systems where **intelligence meets the physical world.**
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moosamubasir\&show_icons=true\&bg_color=0D1117\&title_color=FFFFFF\&text_color=FFFFFF\&icon_color=FFFFFF\&border_color=0D1117\&hide_border=true)](https://github.com/moosamubasir)
 
-</div>
