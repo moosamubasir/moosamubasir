@@ -68,15 +68,12 @@ Building systems where **intelligence meets the physical world.**
 </div>
 
 ---
-
-## 📊 GitHub Activity
+## 📊 GRAPH
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moosamubasir&theme=github_dark"
-  width="98%"
-  alt="Moosa Mubasir GitHub activity"
-/>
+<img src="https://streak-stats.demolab.com?user=moosamubasir&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=moosamubasir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="Stats" />
 
 </div>
