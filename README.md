@@ -69,11 +69,14 @@ Building systems where **intelligence meets the physical world.**
 
 ---
 
-## 📊 GRAPH
+## 📊 GitHub Activity
 
 <div align="center">
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moosamubasir&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&area=true" width="98%" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moosamubasir&theme=github_dark"
+  width="98%"
+  alt="Moosa Mubasir GitHub activity"
+/>
 
 </div>
